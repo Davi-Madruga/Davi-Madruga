@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Davi Madruga</h1>
 
-<!--
-**Davi-Madruga/Davi-Madruga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Solucionando problemas através da tecnologia e transformando ideias em aplicações práticas.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📚 Atualmente no **3º período**
+- 🔍 Foco em desenvolvimento **Backend**
+- 🚀 Interesse em arquitetura de software, APIs REST e desenvolvimento escalável
+- 💡 Aprendendo continuamente e aplicando conhecimento em projetos reais
+
+---
+
+## ⚙️ Tecnologias
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,django,spring,postgresql,docker,git,vscode,postman" />
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Davi-Madruga&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+---
+
+## 📊 Atividade
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Davi-Madruga/Davi-Madruga/output/snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/davi-madruga">
+<img src="https://img.shields.io/badge/LinkedIn-Davi_Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
