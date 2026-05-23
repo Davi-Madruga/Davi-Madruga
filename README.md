@@ -12,11 +12,10 @@ Solucionando problemas através da tecnologia e transformando ideias em aplicaç
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 📚 Atualmente no **3º período**
-- 🔍 Foco em desenvolvimento **Backend**
-- 🚀 Interesse em arquitetura de software, APIs REST e desenvolvimento escalável
-- 💡 Aprendendo continuamente e aplicando conhecimento em projetos reais
+-  Estudante de **Análise e Desenvolvimento de Sistemas**
+-  Foco em desenvolvimento **Backend**
+-  Interesse em arquitetura de software, APIs REST e desenvolvimento escalável
+-  Aprendendo continuamente e aplicando conhecimento em projetos reais
 
 ---
 
@@ -35,6 +34,7 @@ Solucionando problemas através da tecnologia e transformando ideias em aplicaç
 ![Streak](https://streak-stats.demolab.com?user=Davi-Madruga&theme=radical&hide_border=true&background=0D1117)
 
 </div>
+
 ---
 
 ## 📊 Atividade
@@ -45,11 +45,9 @@ Solucionando problemas através da tecnologia e transformando ideias em aplicaç
 
 ---
 
-## 📫 Contato
+## 🌐 Contato
 
-<p align="center">
+
 <a href="https://www.linkedin.com/in/davi-madruga">
 <img src="https://img.shields.io/badge/LinkedIn-Davi_Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-
