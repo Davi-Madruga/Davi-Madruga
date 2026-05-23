@@ -40,7 +40,7 @@ Solucionando problemas através da tecnologia e transformando ideias em aplicaç
 ## 📊 Atividade
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Davi-Madruga/Davi-Madruga/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Davi-Madruga/Davi-Madruga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
