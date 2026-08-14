@@ -22,7 +22,7 @@ Solucionando problemas através da tecnologia e transformando ideias em aplicaç
 ## ⚙️ Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,django,spring,postgresql,docker,git,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,java,spring,postgresql,git" /><!--postman,docker-->
 </div>
 
 ---
